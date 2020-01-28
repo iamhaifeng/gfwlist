@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mIShJtvB4UUaZ7ms+0fm4g
+! Checksum: 
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Nov 2019 11:21:47 -0500
+! Last Modified: 2020-1-28
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -14,6 +14,10 @@
 ! contact us regarding URL submission / removal,
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
+
+!------------- haifeng modify ----------------
+||trojan-gfw.github.io
+!---------------------------------------------
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai

@@ -20,6 +20,7 @@ trojan-gfw.github.io
 .91wii.com
 .atrandys.com
 mydf.github.io
+discord.com
 !---------------------------------------------
 
 !---------403/451/520 & URL Redirects---------

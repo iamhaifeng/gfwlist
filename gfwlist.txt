@@ -3,7 +3,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2020-3-16
+! Last Modified: 2021-6-11
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -21,7 +21,7 @@ trojan-gfw.github.io
 .atrandys.com
 mydf.github.io
 ||discord.com
-v2ex.com
+||v2ex.com
 github.com
 !---------------------------------------------
 

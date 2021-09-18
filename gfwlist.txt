@@ -24,6 +24,7 @@ trojan-gfw.github.io
 ||v2ex.com
 ||github.com
 ||honeyswap.org
+||blockscout.com
 !---------------------------------------------
 
 !---------403/451/520 & URL Redirects---------

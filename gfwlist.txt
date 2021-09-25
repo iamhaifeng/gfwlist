@@ -3,7 +3,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2021-9-23
+! Last Modified: 2021-9-25
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -29,6 +29,7 @@ trojan-gfw.github.io
 ||blockscout.com
 ||aave.com
 ||zapper.fi
+||debank.com
 !---------------------------------------------
 
 !---------403/451/520 & URL Redirects---------

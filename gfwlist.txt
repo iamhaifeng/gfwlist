@@ -30,6 +30,8 @@ trojan-gfw.github.io
 ||aave.com
 ||zapper.fi
 ||debank.com
+||gate.tv
+||gate.io
 !---------------------------------------------
 
 !---------403/451/520 & URL Redirects---------

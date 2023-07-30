@@ -23,6 +23,7 @@ trojan-gfw.github.io
 ||discord.com
 ||v2ex.com
 ||github.com
+||he.net
 
 !----币圈------
 ||honeyswap.org

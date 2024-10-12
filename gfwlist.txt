@@ -27,6 +27,7 @@ trojan-gfw.github.io
 ||docker.com
 ||jsdelivr.net
 ||hdsky.me
+||x.com
 
 !----币圈------
 ||honeyswap.org

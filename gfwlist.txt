@@ -29,6 +29,7 @@ trojan-gfw.github.io
 ||hdsky.me
 ||x.com
 ||server-world.info
+||qbittorrent.org
 
 !----币圈------
 ||honeyswap.org
